@@ -8,7 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello World
-          Name name is Huy
+          
+        </p>
+         <p>
+          Name name is Huy:1947311
+          
         </p>
         <a
           className="App-link"
